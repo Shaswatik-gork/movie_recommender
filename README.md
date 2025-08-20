@@ -1,1 +1,1 @@
-this code currently only returns the recommendations to watch movies who have watched star wars.its currently not based on user input
+The dataset used in the project is of Hollywood films from 1990-2000. One can use any dataset provided the sources in the codes are changed and also dataset is downloaded externally.
